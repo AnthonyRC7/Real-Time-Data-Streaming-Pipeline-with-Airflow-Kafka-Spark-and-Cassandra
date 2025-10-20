@@ -29,10 +29,3 @@ The entire pipeline is encapsulated within **Docker** containers, affording a st
 - Utilizing data storage solutions with PostgreSQL and Cassandra to securely store and manage structured and unstructured data, respectively.
 - Containerizing the entire data engineering infrastructure with Docker to ensure portability and ease of deployment across various environments.
 
-## Acknowledgements
-I would like to thank [Yusuf Ganiyu](https://www.linkedin.com/in/yusuf-ganiyu-b90140107/) for this amazing project. 
-
-
-Please follow the tutorial here to build this data engineering pipeline yourself.
-[YouTube Video Tutorial](https://www.youtube.com/watch?v=GqAcTrqKcrY)
-
